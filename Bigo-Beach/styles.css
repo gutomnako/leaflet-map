@@ -1,0 +1,17 @@
+/* Style the map container */
+#map {
+    height: 2000px; /* Height of the map */
+    width: 100%;   /* Full-width map */
+}
+
+/* Style the body and header */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0;
+}
